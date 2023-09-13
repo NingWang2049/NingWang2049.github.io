@@ -4,7 +4,7 @@ layout: page
 
 <img src="wangning.jpg" class="floatpic" width="90" height="120">
 
-Here is *Ning Wang (王宁)**.
+Here is **Ning Wang (王宁)**.
 
 I am a third-year Ph.D student at Xidian university. My research interests lie in **Artificial Intelligence**, **Computer Vision**, and **Machine Learning**. In particular, I am interested in the field of **Human Activity Recognition**, **Human-Object Intraction Recognition** and **Explanation AI**.
 
