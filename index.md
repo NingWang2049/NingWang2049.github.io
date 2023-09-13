@@ -40,5 +40,5 @@ The 29th ACM International Conference on Multimedia (ACM MM) 2021
 
 ## Contact
 
-Embedded Technology and Visual Processing Research Center​​​, Xidian University.
+Embedded Technology and Visual Processing Research Center​​​, Xidian University. <br>
 266 Xinglong Section of Xifeng Road, Xi’an, Shaanxi, China.
