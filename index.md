@@ -24,8 +24,7 @@ I am a third-year Ph.D student at Xidian university. My research interests lie i
 
 **Exploring Spatio-Temporal Graph Convolution for Video-based Human-Object Interaction Recognition** <br>
 *__Ning Wang__*, *Guangming Zhu*, *Hongsheng Li*, *Mingtao Feng*, *Xia Zhao*, *Lan Ni*, *Peiyi Shen*, *Lin Mei*, *Liang Zhang* <br>
-IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
-<br>
+IEEE Transactions on Circuits and Systems for Video Technology (TCSVT) <br>
 **Spatio-temporal interaction graph parsing networks for human-object interaction recognition** <br>
 *__Ning Wang__*, *Guangming Zhu*, *Liang Zhang*, *Peiyi Shen*, *Hongsheng Li*, *Cong Hua* <br>
 The 29th ACM International Conference on Multimedia (ACM MM) 2021
