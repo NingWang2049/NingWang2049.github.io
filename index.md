@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<img src="wangning.jpg" class="floatpic" width="360" height="480">
+<img src="wangning.jpg" class="floatpic" width="180" height="240">
 
 Here is *Ning Wang (王宁)**.
 
