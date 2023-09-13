@@ -13,8 +13,8 @@ I am a third-year Ph.D student at Xidian university. My research interests lie i
 ## News
 
 - [2023/8] One paper is submitted to AAAI 2024!
-- [2023/3] Paper *Exploring Spatio-Temporal Graph Convolution for Video-based Human-Object Interaction Recognition* has been accepted by IEEE TCSVT (中科院 1区)! ['Paper'](https://ieeexplore.ieee.org/abstract/document/10077416/) ['Code'](https://github.com/NingWang2049/STIGPN2)
-- [2021/7] Paper *Spatio-temporal interaction graph parsing networks for human-object interaction recognition* has been accepted by ACM MM 2021 (CCF A)! ['Paper'](https://arxiv.org/pdf/2108.08633) ['Code'](https://github.com/NingWang2049/STIGPN)
+- [2023/3] Paper *Exploring Spatio-Temporal Graph Convolution for Video-based Human-Object Interaction Recognition* has been accepted by IEEE TCSVT (中科院 1区)! [[Paper]](https://ieeexplore.ieee.org/abstract/document/10077416/) [[Code]](https://github.com/NingWang2049/STIGPN2)
+- [2021/7] Paper *Spatio-temporal interaction graph parsing networks for human-object interaction recognition* has been accepted by ACM MM 2021 (CCF A)! [[Paper]](https://arxiv.org/pdf/2108.08633) [[Code]](https://github.com/NingWang2049/STIGPN)
 
 <br>
 
