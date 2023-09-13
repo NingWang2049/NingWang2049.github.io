@@ -14,7 +14,7 @@ I am a third-year Ph.D student at Xidian university. My research interests lie i
 
 - [2023/8] One paper is submitted to AAAI 2024!
 - [2023/3] Paper *Exploring Spatio-Temporal Graph Convolution for Video-based Human-Object Interaction Recognition* has been accepted by IEEE TCSVT (中科院 1区)! [Paper](https://ieeexplore.ieee.org/abstract/document/10077416/) [Code](https://github.com/NingWang2049/STIGPN2)
-- [2021/7] Paper *Spatio-temporal interaction graph parsing networks for human-object interaction recognition* has been accepted by ACM MM 2021 (CCF A)! [Paper](https://arxiv.org/pdf/2108.08633) [Code](https://github.com/NingWang2049/STIGPN)
+- [2021/7] Paper *Spatio-temporal interaction graph parsing networks for human-object interaction recognition* has been accepted by ACM MM 2021 (CCF A)! [Paper](https://arxiv.org/pdf/2108.08633) [[Code]]([https://github.com/NingWang2049/STIGPN])
 
 <br>
 
@@ -22,12 +22,16 @@ I am a third-year Ph.D student at Xidian university. My research interests lie i
 
 ## Selected publications
 
-**Exploring Spatio-Temporal Graph Convolution for Video-based Human-Object Interaction Recognition**
-*__Ning Wang__*, *Guangming Zhu*, *Hongsheng Li*, *Mingtao Feng*, *Xia Zhao*, *Lan Ni*, *Peiyi Shen*, *Lin Mei*, *Liang Zhang*
+**Exploring Spatio-Temporal Graph Convolution for Video-based Human-Object Interaction Recognition** <br>
+*__Ning Wang__*, *Guangming Zhu*, *Hongsheng Li*, *Mingtao Feng*, *Xia Zhao*, *Lan Ni*, *Peiyi Shen*, *Lin Mei*, *Liang Zhang* <br>
 IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 
-**Spatio-temporal interaction graph parsing networks for human-object interaction recognition**
-*__Ning Wang__*, *Guangming Zhu*, *Liang Zhang*, *Peiyi Shen*, *Hongsheng Li*, *Cong Hua*
+<br>
+
+---
+
+**Spatio-temporal interaction graph parsing networks for human-object interaction recognition** <br>
+*__Ning Wang__*, *Guangming Zhu*, *Liang Zhang*, *Peiyi Shen*, *Hongsheng Li*, *Cong Hua* <br>
 The 29th ACM International Conference on Multimedia (ACM MM) 2021
 
 <br>
