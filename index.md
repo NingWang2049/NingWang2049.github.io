@@ -6,13 +6,13 @@ layout: page
 
 Here is **Ning Wang (王宁)**.
 
-I am a third-year Ph.D student at Xidian university. My research interests lie in **Artificial Intelligence**, **Computer Vision**, and **Machine Learning**. In particular, I am interested in the field of **Human Activity Recognition**, **Human-Object Intraction Recognition** and **Explanation AI**.
+I am a fourth-year Ph.D student at Xidian university. My research interests lie in **Artificial Intelligence**, **Computer Vision**, and **Machine Learning**. In particular, I am interested in the field of **Human Activity Recognition**, **Human-Object Intraction Recognition** and **Explanation AI**.
 
 <br>
 
 ## News
 
-- [2024/3] One paper is submitted to ECCV 2024!
+- [2024/3] One paper is accepted by Neurocomputing 2024!
 - [2024/2] One paper accepted by CVPR 2024!
 - [2023/11] One paper is submitted to CVPR 2024!
 - [2023/3] Paper *Exploring Spatio-Temporal Graph Convolution for Video-based Human-Object Interaction Recognition* has been accepted by IEEE TCSVT (中科院 1区)! [[Paper]](https://ieeexplore.ieee.org/abstract/document/10077416/) [[Code]](https://github.com/NingWang2049/STIGPN2)
@@ -40,7 +40,7 @@ The 29th ACM International Conference on Multimedia (ACM MM) 2021
 
 ## Community Service
 
-- Journal Reviewer: Computers in Industry, TCSVT, Neurocomputing, 
+- Journal Reviewer: Computers in Industry, TNNLS, TCSVT, Neurocomputing, 
 
 ## Contact
 
