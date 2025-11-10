@@ -11,7 +11,7 @@ I am a fourth-year Ph.D student at Xidian university. My research interests lie 
 <br>
 
 ## News
-
+- [2025/11] Two paper is submitted to CVPR 2026!
 - [2024/11] One paper is accepted by Neurocomputing 2024!
 - [2024/2] One paper accepted by CVPR 2024!
 - [2023/11] One paper is submitted to CVPR 2024!
